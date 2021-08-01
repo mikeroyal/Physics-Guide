@@ -226,13 +226,15 @@
  - Dynamics
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127783966-4acee05c-8805-4a0e-9ac8-75ca9b5624b3.png">
   <br />
+ Mechanic Equations
 </p>
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127783970-30885fea-be91-41ca-857a-d999a57d88fb.png">
   <br />
+ Mechanic Equations pt.2
 </p>
 
 # Kinematics
@@ -254,6 +256,18 @@
  - Difference between distance and displacement
  - Difference between velocity and acceleration
 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127783981-645cd9a7-0ed6-4073-a26d-b529851e96a0.png">
+  <br />
+ Kinematic Equations
+</p>
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127783982-99ec453d-9e86-4b08-ad6f-766157af2cbc.png">
+  <br />
+ Kinematic Equations pt.2
+</p>
+
 # Dynamics
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
@@ -264,13 +278,24 @@
  - Newton’s third law of motion
  - Law of conservation of momentum
 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127783984-fc4ec677-0b9c-4737-9463-5353710d3c20.png">
+  <br />
+ Dynamics Equations
+</p>
+
 # Types of friction
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
- - Difference between centre of mass and centre of gravity
+ - Difference between center of mass and center of gravity
  - Difference between conservative and non conservative forces
  - Difference between centripetal and centrifugal force
  - Difference between force and pressure
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784003-82788dc6-0f8a-451a-ae37-fb31e43408ef.png">
+  <br />
+</p>
 
  Source: [scienceabc](https://www.scienceabc.com/pure-sciences/why-is-static-friction-greater-than-kinetic-friction.html)
 
@@ -283,6 +308,11 @@
  - Artificial gravity formula
  - Relation between escape velocity and orbital velocity
  - Gravitational potential energy
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784007-89ad2fc9-e8a7-4fc6-94fa-b211738559fb.png">
+  <br />
+</p>
 
  Newton's Law of Gravitation. Source: [me-mechanicalengineering](https://me-mechanicalengineering.com/newtons-law-of-gravitation/)
 
@@ -303,6 +333,12 @@
  - Relation between power force and velocity
  - Difference between instantaneous and average power
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784020-116a0280-2b36-4c5c-a37b-30158b5b202c.png">
+  <br />
+ Work and Engery Equations
+</p>
+
 # Turning Effect of Forces
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
@@ -311,7 +347,12 @@
  - Conditions of equilibrium
  - Difference between stable, unstable, and neutral equilibrium
 
-Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://www.slideshare.net/missingisland/energy-and-turning-effect)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784359-fbf2bee7-92d2-4e3b-8e47-1c78f56cea40.png">
+  <br />
+</p>
+
+Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://www.slideshare.net/missingisland/energy-and-turning-effect)
 
 # Collisions
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
@@ -319,19 +360,31 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
  - Collision and its types
  - Difference between elastic and inelastic collision
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784061-b5a76ee8-7366-481e-83aa-418876be42b0.png">
+  <br />
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784065-854ff75f-25c4-4bb1-9318-6fdf6caa9590.png">
+  <br />
+</p>
+
 # Fluid Dynamics
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784433-7e597421-1d80-4303-a618-2601b8b10311.png">
   <br />
 </p>
 
 **Computer simulation of high velocity air flow around the Space Shuttle during re-entry. Source:[NASA](https://www.nasa.gov/multimedia/imagegallery/image_feature_431.html)**
 
-** Euler. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket/eulereqs.html)**
-
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784507-26f5f856-3682-4430-9cc2-3ae4a668bf66.png">
+  <br />
+</p>
+**Bernoulli's Equation. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket.html)**
 
 ## Fluid Mechanics
 
@@ -342,20 +395,30 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
     - Pascal law formula and its applications
     - Archimedes principle and law of floatation
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784084-a539e5bd-2cf0-45ee-8917-7784938b3192.png">
+  <br />
+</p>
+**Euler Equations. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket/eulereqs.html)**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784086-9a4fe821-8f6c-4ec5-ae95-300316b441fd.png">
+  <br />
+</p>
+**Navier-Stokes Equations. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket.html)**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784108-87128dbd-574f-4690-9d73-6232bb352331.png">
+  <br />
+ Pascal's law
+</p>
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784110-96f0dd14-ed51-43c6-ab14-07cb5b61ec0e.png">
   <br />
 </p>
 
-    **Pascal law**
-
-       <p align="center">
- <img src="">
-  <br />
-</p>
-
-    **Archimedes Principle. Source:[sciencefacts](https://www.sciencefacts.net/archimedes-principle.html)**
+ **Archimedes Principle. Source:[sciencefacts](https://www.sciencefacts.net/archimedes-principle.html)**
 
 # Electric charge, field, and potential
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
@@ -364,12 +427,17 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
      - Electric field: Electric charge, field, and potential
      - Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
-     <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784121-8f89a787-1674-4db4-ba46-b2f280706dd9.png">
   <br />
 </p>
 
-   **Electric Potential Energy. Source: [sparkfun](https://learn.sparkfun.com/tutorials/what-is-electricity/electric-potential-energy)**
+ **Electric Potential Energy. Source: [sparkfun](https://learn.sparkfun.com/tutorials/what-is-electricity/electric-potential-energy)**
+   
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784122-2c0e9166-ff73-44cf-a5b5-62d76aba80c7.png">
+  <br />
+</p>
 
 # Circuits
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
@@ -377,15 +445,15 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
     - Ohm's law and circuits with resistors: Circuits
     - Circuits with capacitors: Circuits
 
-    <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784127-ad587152-0c0d-4671-b29d-9231889899ff.png">
   <br />
 </p>
 
-  **Electric Circuits. Source: [sdsu-physics](http://sdsu-physics.org/physics180/physics180B/Chapters/electric_currents.htm)**
+ **Electric Circuits. Source: [sdsu-physics](http://sdsu-physics.org/physics180/physics180B/Chapters/electric_currents.htm)**
 
   <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784128-941e1cf9-0cff-4702-b97b-f827d9489a20.png">
   <br />
 </p>
 
@@ -398,22 +466,22 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
     - Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic flux and Faraday's law
 
-    <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784132-d4b67030-9e04-41f1-90d2-98b7c6beebe8.png">
   <br />
 </p>
 
  **Magnetic Field. Source: [vecteezy](https://www.vecteezy.com/vector-art/593998-physics-science-about-the-movement-of-magnetic-fields-positive-and-negative)**
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784663-28e8ad0e-aa9d-4dbf-b285-0b2976de2d3e.png">
   <br />
 </p>
 
  **Amphere's Law. Source: [sdsu-physics](https://sdsu-physics.org/physics180/physics196/Topics/magneticFields30.html)**
 
  <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127784666-dd53913b-33c9-4ddd-8cf1-b8fa398bf3de.png">
   <br />
 </p>
 
@@ -425,12 +493,12 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
     - Introduction to electromagnetic waves: Electromagnetic waves and interference
     - Interference of electromagnetic waves
 
-    <p align="center">
+  <p align="center">
  <img src="">
   <br />
 </p>
 
-    **Electromagnetic Wave. Source: [differencebetween](https://www.differencebetween.com/difference-between-wave-and-particle-nature-of-light/)**
+ **Electromagnetic Wave. Source: [differencebetween](https://www.differencebetween.com/difference-between-wave-and-particle-nature-of-light/)**
 
     <p align="center">
  <img src="">
@@ -446,15 +514,15 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
     - Mirrors: Geometric optics
     - Lenses
 
-    <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784685-dfeb8063-7bf2-4420-9610-41c05a0b5d4d.png">
   <br />
 </p>
 
    **Geometric Optics - Raytracing. Source: [sdsu-physics](https://sdsu-physics.org/physics180/physics180B/Topics/light/raytracing.html)**
 
-    <p align="center">
- <img src="">
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784688-5ecef6ad-3520-41fd-a206-e675ca3a1f5b.png">
   <br />
    </p>
 
@@ -468,15 +536,15 @@ Formula of Momentum fro Energy And Turning Effec. Source: [slideshare](http://ww
    - Quantum numbers and orbitals: Quantum Physics
    - Nuclei
 
-   <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784717-deafb7b1-82a1-46f1-b64a-f1b2db0442f0.png">
   <br />
   </p>
 
    **Map of Quantum Physics. Source: [Domain of Science](https://www.youtube.com/watch?v=gAFAj3pzvAA)**
 
-   <p align="center">
- <img src="">
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784719-64e2e8dd-d050-421c-beb2-67d31cc7a4c4.png">
   <br />
   </p>
 
