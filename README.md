@@ -159,6 +159,7 @@
 21. [Julia Development](https://github.com/mikeroyal/Physics-Guide#Julia-Development)
 
 # Physics Learning Resources
+[Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
 [Physics | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/courses/physics/)
 
@@ -178,7 +179,7 @@
 
 [Particle Physics: an Introduction | Coursera](https://www.coursera.org/learn/particle-physics)
 
-[Exploring Quantum Physics | Coursera](https://www.coursera.org/learn/quantum-physics
+[Exploring Quantum Physics | Coursera](https://www.coursera.org/learn/quantum-physics)
 
 [Top Physics Courses Online | Udemy](https://www.udemy.com/topic/physics/)
 
@@ -495,14 +496,14 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
     - Interference of electromagnetic waves
 
   <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/127785050-a98f0812-d723-49b9-9796-ac05bb64804a.png">
   <br />
 </p>
 
  **Electromagnetic Wave. Source: [differencebetween](https://www.differencebetween.com/difference-between-wave-and-particle-nature-of-light/)**
 
-    <p align="center">
- <img src="">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127785051-1a86c310-0e09-4f8b-be8e-99770dd0301e.png">
   <br />
 </p>
 
