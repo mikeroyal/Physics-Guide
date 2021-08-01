@@ -462,6 +462,7 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
  **Symbols of Circuits .Source: [andrewpover.co.uk](https://andrewpover.co.uk/category/physics/)**
 
 # Magnetic forces, magnetic fields, and Faraday's law
+[Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
 
     - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
