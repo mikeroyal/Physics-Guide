@@ -123,14 +123,14 @@
     - Ohm's law and circuits with resistors: Circuits
     - Circuits with capacitors: Circuits
 
-13. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/Physics-Guide#magnetic-forces-magnetic-fields-and-Faraday's-law)
+13. [Magnetic forces, magnetic fields, and Faraday's law](https://github.com/mikeroyal/Physics-Guide#magnetic-forces-magnetic-fields-and-Faradays-law)
 
     - Magnets and Magnetic Force: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic field created by a current: Magnetic forces, magnetic fields, and Faraday's law
     - Electric motors: Magnetic forces, magnetic fields, and Faraday's law
     - Magnetic flux and Faraday's law
 
-14. [Electromagnetic waves and interference](https://github.com/mikeroyal/Physics-Guide#electromagnetic-waves-and interference)
+14. [Electromagnetic waves and interference](https://github.com/mikeroyal/Physics-Guide#electromagnetic-waves-and-interference)
 
     - Introduction to electromagnetic waves: Electromagnetic waves and interference
     - Interference of electromagnetic waves
@@ -140,7 +140,6 @@
     - Reflection and refraction: Geometric optics
     - Mirrors: Geometric optics
     - Lenses
-
 
 16. [Quantum Physics](https://github.com/mikeroyal/Physics-Guide#Quantum-Physics)
 
@@ -399,12 +398,14 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
  <img src="https://user-images.githubusercontent.com/45159366/127784084-a539e5bd-2cf0-45ee-8917-7784938b3192.png">
   <br />
 </p>
+
 **Euler Equations. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket/eulereqs.html)**
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/127784086-9a4fe821-8f6c-4ec5-ae95-300316b441fd.png">
   <br />
 </p>
+
 **Navier-Stokes Equations. Source: [NASA](https://www.grc.nasa.gov/WWW/k-12/rocket.html)**
 
 <p align="center">
@@ -427,15 +428,15 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
      - Electric field: Electric charge, field, and potential
      - Electric potential energy, electric potential, and voltage: Electric charge, field, and potential
 
- <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784121-8f89a787-1674-4db4-ba46-b2f280706dd9.png">
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784122-2c0e9166-ff73-44cf-a5b5-62d76aba80c7.png">
   <br />
 </p>
 
  **Electric Potential Energy. Source: [sparkfun](https://learn.sparkfun.com/tutorials/what-is-electricity/electric-potential-energy)**
    
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/127784122-2c0e9166-ff73-44cf-a5b5-62d76aba80c7.png">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/127784121-8f89a787-1674-4db4-ba46-b2f280706dd9.png">
   <br />
 </p>
 
@@ -505,7 +506,7 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
   <br />
 </p>
 
-    **EMI Spectrum. Source: [electrical4u](https://www.electrical4u.com/electromagnetic-interference/)**
+   **EMI Spectrum. Source: [electrical4u](https://www.electrical4u.com/electromagnetic-interference/)**
 
 # Geometric optics
 [Back to the Top](https://github.com/mikeroyal/Physics-Guide#table-of-contents)
