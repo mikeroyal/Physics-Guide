@@ -59,8 +59,8 @@
 
 5. [Types of friction](https://github.com/mikeroyal/Physics-Guide#Types-of-friction)
 
-    - Difference between centre of mass and centre of gravity
-    - Difference between conservative and non conservative forces
+    - Difference between center of mass and center of gravity
+    - Difference between conservative and non-conservative forces
     - Difference between centripetal and centrifugal force
     - Difference between force and pressure
 
@@ -82,7 +82,7 @@
     - Work energy theorem derivation
     - Energy sources
     - Renewable energy sources
-    - Difference between renewable and non renewable energy sources
+    - Difference between renewable and non-renewable energy sources
     - Conservation of mechanical energy
     - Solar energy
     - Work definition in physics
