@@ -205,6 +205,8 @@
 
 [Online/Virtual Courses - Department of Physics and Astronomy | Michigan State](https://pa.msu.edu/academics/online-courses/)
 
+[Scivra - Interactive 3D Science Labs for High School](https://www.scivra.com/)
+
 
 
 # Mechanics
