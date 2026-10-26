@@ -870,6 +870,8 @@ Formula of Momentum for Energy And Turning Effect. Source: [slideshare](http://w
 
 [NumPy](https://www.numpy.org/) is the fundamental package needed for scientific computing with Python.
 
+[AgentFEM](https://github.com/haoming-luo/agentfem) is an open-source finite-element platform built on FEniCSx for mechanics and heat-transfer simulations. Readable Python workflows keep materials, boundary conditions, solution steps, outputs, and verification together, and can be operated by people, scripts, or AI assistants.
+
 [Pillow](https://python-pillow.org/) is a friendly PIL(Python Imaging Library) fork.
 
 [IPython](https://ipython.org/) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers enhanced introspection, rich media, additional shell syntax, tab completion, and rich history.
