@@ -167,6 +167,8 @@
 
 [High School Physics | MIT OpenCourseWare | Free Online Course Materials](https://ocw.mit.edu/high-school/physics/)
 
+[Sandbox Physics | Interactive Physics Experiments in English and Chinese](https://sandboxphysics.com/)
+
 [Physics - Wolfram|Alpha](https://www.wolframalpha.com/input/?i=physics)
 
 [Quantum Physics Full Course | YouTube](https://www.youtube.com/watch?v=xnt2xSNRNn0)
